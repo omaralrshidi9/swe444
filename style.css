@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f1ebeb;
+
+
+	
+}
+.menu li{
+    display: inline;
+
+}
+.menu {
+    position: relative;
+
+}
+.menu {
+    overflow: hidden;
+    background-color: #14430b;
+    width: 100%;
+}
+
+.menu a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 2%;
+}
+
+.menu a:hover {
+    background-color: #dad0d0;
+    color: black;
+}
+
+.menu a.active {
+    background-color: #dad0d0;
+    color: black;
+}
+.menu ul a{
+  display: block;
+    float: left;
+}
+
+.container{
+    width: 100%;
+	
+ 
+}
+
+
+
+.hr {
+  padding: 80px;
+  text-align: center;
+  background: #187018f1;
+  color: rgb(245, 238, 238);
+}
+
+.hr h1 {
+  font-size: 40px;
+}
+
+
+.ht h1 {
+  font-size: 40px;
+text-align: center;
+}
+
+
+#department{
+    width: 100%;
+
+}
+.section{
+    width: 29%;
+    float: left;
+    border: 1px solid black;
+    padding: 1%;
+    margin: 1%;
+    text-align: left;
+    height: 50%;
+    background-color: 	#b9b8bd;
+}
+.section img{
+    width: 90%;
+    height:38%;
+}
+.section h3{
+   
+    color: #008080;
+    padding: 1%;
+    padding-right: 2%;
+    text-align: center;
+    font-size: larger;
+ }
+ 
+ .header h3{
+ 
+    color: #4e4e4e;
+    text-align: center;
+    font-size: 50px;
+ }
+ .header h2{
+ 
+    color: #4e4e4e;
+    text-align: center;
+    font-size: 30px;
+ }
+ .header {
+ 
+    color: #4e4e4e;
+    text-align: left;
+    font-size: 10px;
+ }
